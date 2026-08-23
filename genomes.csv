@@ -1,0 +1,31 @@
+genome_id,organism,short_name,group,why_included
+,Methylococcus capsulatus Bath,M. capsulatus,Type I MOB (Gammaproteobacteria),Your study organism; closed high-quality genome
+,Methylocaldum szegediense,M. szegediense,Type I MOB (Gammaproteobacteria),Thermotolerant Type I representative
+,Methylomonas denitrificans FJG1,M. denitrificans,Type I MOB (Gammaproteobacteria),Reported to couple CH4 oxidation to nitrate reduction
+,Methylomonas methanica,M. methanica,Type I MOB (Gammaproteobacteria),Common freshwater Type I
+,Methylobacter tundripaludum,M. tundripaludum,Type I MOB (Gammaproteobacteria),Dominant in situ MOB in many wetland and WWTP systems
+,Methylomicrobium album BG8,M. album,Type I MOB (Gammaproteobacteria),Model strain for MOB nitrogen cycling
+,Methylomicrobium alcaliphilum 20Z,M. alcaliphilum,Type I MOB (Gammaproteobacteria),Haloalkaliphilic; well-characterised physiology
+,Methylosarcina fibrata,M. fibrata,Type I MOB (Gammaproteobacteria),Lineage breadth within Methylococcaceae
+,Methyloglobulus morosus,M. morosus,Type I MOB (Gammaproteobacteria),Lineage breadth within Methylococcaceae
+,Methylothermus thermalis,M. thermalis,Type I MOB (Gammaproteobacteria),Deep-branching Methylococcaceae
+,Methylosinus trichosporium OB3b,M. trichosporium,Type II MOB (Alphaproteobacteria),Canonical Type II model strain; sMMO/pMMO copper switch
+,Methylocystis parvus OBBP,M. parvus,Type II MOB (Alphaproteobacteria),Canonical Type II model strain
+,Methylocella silvestris BL2,M. silvestris,Type II MOB (Alphaproteobacteria),Facultative methanotroph; metabolic contrast
+,Methylocapsa acidiphila,M. acidiphila,Type II MOB (Alphaproteobacteria),Acidophilic Type II representative
+,Methylacidiphilum infernorum V4,M. infernorum,Verrucomicrobial MOB,Deep phylogenetic outgroup among aerobic MOB
+,Methylacidiphilum fumariolicum SolV,M. fumariolicum,Verrucomicrobial MOB,Second verrucomicrobial representative
+,Candidatus Methylomirabilis oxyfera,Ca. M. oxyfera,n-DAMO bacterium (NC10),Nitrite-dependent methane oxidation; intra-aerobic pathway
+,Candidatus Methanoperedens nitroreducens,Ca. M. nitroreducens,ANME-2d archaeon,KEY COMPARATOR - nitrate-dependent AOM with documented EET machinery
+,Candidatus Kuenenia stuttgartiensis,Ca. K. stuttgartiensis,Anammox,Cytochrome-c-rich anammox reference genome
+,Candidatus Brocadia sinica,Ca. B. sinica,Anammox,Common in engineered anammox reactors
+,Candidatus Brocadia sapporoensis,Ca. B. sapporoensis,Anammox,Second Brocadia for within-genus variation
+,Candidatus Jettenia caeni,Ca. J. caeni,Anammox,Genus-level breadth within Brocadiaceae
+,Candidatus Scalindua profunda,Ca. S. profunda,Anammox,Marine anammox; deepest-branching genus
+,Candidatus Anammoxoglobus propionicus,Ca. A. propionicus,Anammox,Organotrophic anammox; metabolic contrast
+,Geobacter sulfurreducens PCA,G. sulfurreducens,Positive control (EET),OmcS/OmcZ nanowires; benchmark for an MHC-rich proteome
+,Shewanella oneidensis MR-1,S. oneidensis,Positive control (EET),MtrCAB-OmcA porin-cytochrome conduit; benchmark
+,Escherichia coli K-12 MG1655,E. coli,Negative control,No EET machinery; sets the chance-occurrence baseline
+,Nitrosomonas europaea,N. europaea,Methodological control,HAO-family CXXCK proteins; tests motif specificity
+,Nitrospira moscoviensis,N. moscoviensis,Ecological control,NOB relevant to your reactor contamination question
+,Pseudomonas aeruginosa PAO1,P. aeruginosa,Negative control,Second non-EET heterotroph baseline
