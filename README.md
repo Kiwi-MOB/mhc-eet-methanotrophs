@@ -3,8 +3,7 @@
 *An in silico comparative genomics survey*
 
 > **Status:** in progress. Started July 2026.
-> **Author:** CAI Wenjia (Xanthus), Dept. of Civil and Environmental Engineering, PolyU
-> **Context:** independent side project of ongoing research on anammox × methane-oxidising bacteria (MOB) coupling in the WaterLab (supervisor: Dr. Liu Tao).
+> **Author:** CAI Wenjia ( Kiwi ), Dept. of Civil and Environmental Engineering, PolyU
 
 ---
 
