@@ -28,4 +28,4 @@ GCA_030583625.1,Candidatus Jettenia caeni,Ca. J. caeni,Anammox,,1,,Genus-level b
 GCF_000949635.1,Candidatus Brocadia sinica,Ca. B. sinica,Anammox,,3,,Common in engineered anammox reactors,
 GCF_001753675.2,Candidatus Brocadia sapporoensis,Ca. B. sapporoensis,Anammox,,123,,Second Brocadia for within-genus variation,
 GCA_000786775.1,Candidatus Scalindua brodae,Ca. S. brodae,Anammox,,282,,Marine anammox; deepest-branching genus,USE brodae NOT profunda - profunda assembly is far more fragmented
-"GCA_020724075.1	",Candidatus Anammoxoglobus sp.,Ca. A. propionicus,Anammox,,1186,,Organotrophic anammox; metabolic contrast,HIGH RISK - NCBI spells it Anammoxiglobus (corrig.); may have no annotated genome. Substitute Ca. Brocadia fulgida if unavailable
+,Candidatus Anammoxoglobus sp.,Ca. A. propionicus,Anammox,,1186,,Organotrophic anammox; metabolic contrast,HIGH RISK - NCBI spells it Anammoxiglobus (corrig.); may have no annotated genome. Substitute Ca. Brocadia fulgida if unavailable
