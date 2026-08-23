@@ -1,31 +1,31 @@
-genome_id,organism,short_name,group,why_included
-,Methylococcus capsulatus Bath,M. capsulatus,Type I MOB (Gammaproteobacteria),Your study organism; closed high-quality genome
-,Methylocaldum szegediense,M. szegediense,Type I MOB (Gammaproteobacteria),Thermotolerant Type I representative
-,Methylomonas denitrificans FJG1,M. denitrificans,Type I MOB (Gammaproteobacteria),Reported to couple CH4 oxidation to nitrate reduction
-,Methylomonas methanica,M. methanica,Type I MOB (Gammaproteobacteria),Common freshwater Type I
-,Methylobacter tundripaludum,M. tundripaludum,Type I MOB (Gammaproteobacteria),Dominant in situ MOB in many wetland and WWTP systems
-,Methylomicrobium album BG8,M. album,Type I MOB (Gammaproteobacteria),Model strain for MOB nitrogen cycling
-,Methylomicrobium alcaliphilum 20Z,M. alcaliphilum,Type I MOB (Gammaproteobacteria),Haloalkaliphilic; well-characterised physiology
-,Methylosarcina fibrata,M. fibrata,Type I MOB (Gammaproteobacteria),Lineage breadth within Methylococcaceae
-,Methyloglobulus morosus,M. morosus,Type I MOB (Gammaproteobacteria),Lineage breadth within Methylococcaceae
-,Methylothermus thermalis,M. thermalis,Type I MOB (Gammaproteobacteria),Deep-branching Methylococcaceae
-,Methylosinus trichosporium OB3b,M. trichosporium,Type II MOB (Alphaproteobacteria),Canonical Type II model strain; sMMO/pMMO copper switch
-,Methylocystis parvus OBBP,M. parvus,Type II MOB (Alphaproteobacteria),Canonical Type II model strain
-,Methylocella silvestris BL2,M. silvestris,Type II MOB (Alphaproteobacteria),Facultative methanotroph; metabolic contrast
-,Methylocapsa acidiphila,M. acidiphila,Type II MOB (Alphaproteobacteria),Acidophilic Type II representative
-,Methylacidiphilum infernorum V4,M. infernorum,Verrucomicrobial MOB,Deep phylogenetic outgroup among aerobic MOB
-,Methylacidiphilum fumariolicum SolV,M. fumariolicum,Verrucomicrobial MOB,Second verrucomicrobial representative
-,Candidatus Methylomirabilis oxyfera,Ca. M. oxyfera,n-DAMO bacterium (NC10),Nitrite-dependent methane oxidation; intra-aerobic pathway
-,Candidatus Methanoperedens nitroreducens,Ca. M. nitroreducens,ANME-2d archaeon,KEY COMPARATOR - nitrate-dependent AOM with documented EET machinery
-,Candidatus Kuenenia stuttgartiensis,Ca. K. stuttgartiensis,Anammox,Cytochrome-c-rich anammox reference genome
-,Candidatus Brocadia sinica,Ca. B. sinica,Anammox,Common in engineered anammox reactors
-,Candidatus Brocadia sapporoensis,Ca. B. sapporoensis,Anammox,Second Brocadia for within-genus variation
-,Candidatus Jettenia caeni,Ca. J. caeni,Anammox,Genus-level breadth within Brocadiaceae
-,Candidatus Scalindua profunda,Ca. S. profunda,Anammox,Marine anammox; deepest-branching genus
-,Candidatus Anammoxoglobus propionicus,Ca. A. propionicus,Anammox,Organotrophic anammox; metabolic contrast
-,Geobacter sulfurreducens PCA,G. sulfurreducens,Positive control (EET),OmcS/OmcZ nanowires; benchmark for an MHC-rich proteome
-,Shewanella oneidensis MR-1,S. oneidensis,Positive control (EET),MtrCAB-OmcA porin-cytochrome conduit; benchmark
-,Escherichia coli K-12 MG1655,E. coli,Negative control,No EET machinery; sets the chance-occurrence baseline
-,Nitrosomonas europaea,N. europaea,Methodological control,HAO-family CXXCK proteins; tests motif specificity
-,Nitrospira moscoviensis,N. moscoviensis,Ecological control,NOB relevant to your reactor contamination question
-,Pseudomonas aeruginosa PAO1,P. aeruginosa,Negative control,Second non-EET heterotroph baseline
+genome_id,organism,short_name,group,assembly_level,n_contigs,completeness_pct,why_included,selection_note
+GCF_000005845.2,Escherichia coli K-12 MG1655,E. coli,Negative control,,1,,No EET machinery; sets the chance-occurrence baseline,START HERE - easiest lookup
+GCF_000006765.1,Pseudomonas aeruginosa PAO1,P. aeruginosa,Negative control,,1,,Second non-EET heterotroph baseline,
+GCF_000007985.2,Geobacter sulfurreducens PCA,G. sulfurreducens,Positive control (EET),,1,,OmcS/OmcZ nanowires; benchmark for an MHC-rich proteome,
+GCF_000146165.2,Shewanella oneidensis MR-1,S. oneidensis,Positive control (EET),,2,,MtrCAB-OmcA porin-cytochrome conduit; benchmark,
+GCF_054182965.1,Nitrosomonas europaea,N. europaea,Methodological control,,1,,HAO-family CXXCK proteins; tests motif specificity,
+GCF_001273775.1,Nitrospira moscoviensis,N. moscoviensis,Ecological control,,1,,NOB relevant to your reactor contamination question,
+GCF_000008325.1,Methylococcus capsulatus Bath,M. capsulatus,Type I MOB (Gammaproteobacteria),,1,,Your study organism; closed high-quality genome,
+GCF_949769195.1,Methylocaldum szegediense,M. szegediense,Type I MOB (Gammaproteobacteria),,2,,Thermotolerant Type I representative,likely draft only
+GCF_000785705.2,Methylomonas denitrificans FJG1,M. denitrificans,Type I MOB (Gammaproteobacteria),,1,,Reported to couple CH4 oxidation to nitrate reduction,
+GCF_000214665.1,Methylomonas methanica,M. methanica,Type I MOB (Gammaproteobacteria),,1,,Common freshwater Type I,
+GCF_000190755.2,Methylobacter tundripaludum,M. tundripaludum,Type I MOB (Gammaproteobacteria),,3,,Dominant in situ MOB in many wetland and WWTP systems,
+GCF_000214275.2,Methylomicrobium album BG8,M. album,Type I MOB (Gammaproteobacteria),,2,,Model strain for MOB nitrogen cycling,genus name UNCHANGED - stays Methylomicrobium
+GCF_000968535.2,Methylotuvimicrobium alcaliphilum 20Z,Mt. alcaliphilum,Type I MOB (Gammaproteobacteria),,2,,Haloalkaliphilic; well-characterised physiology,RENAMED 2018 - was Methylomicrobium alcaliphilum; NCBI may list either
+GCF_000372865.1,Methylosarcina fibrata AML-C10,M. fibrata,Type I MOB (Gammaproteobacteria),,2,,Lineage breadth within Methylococcaceae,likely draft only
+GCF_000496735.2,Methyloglobulus morosus KoM1,M. morosus,Type I MOB (Gammaproteobacteria),,183,,Lineage breadth within Methylococcaceae,likely draft only
+,Methylothermus thermalis,M. thermalis,Type I MOB (Gammaproteobacteria),,,,Deep-branching Methylococcaceae,RISK - may have no annotated genome; substitute another Methylococcaceae if so
+GCF_000178815.2,Methylosinus trichosporium OB3b,M. trichosporium,Type II MOB (Alphaproteobacteria),,3,,Canonical Type II model strain; sMMO/pMMO copper switch,
+GCF_027571405.1,Methylocystis parvus OBBP,M. parvus,Type II MOB (Alphaproteobacteria),,3,,Canonical Type II model strain,
+GCF_000021745.1,Methylocella silvestris BL2,M. silvestris,Type II MOB (Alphaproteobacteria),,1,,Facultative methanotroph; metabolic contrast,
+GCF_000427445.1,Methylocapsa acidiphila B2,M. acidiphila,Type II MOB (Alphaproteobacteria),,2,,Acidophilic Type II representative,
+GCF_000019665.1,Methylacidiphilum infernorum V4,M. infernorum,Verrucomicrobial MOB,,1,,Deep phylogenetic outgroup among aerobic MOB,
+GCF_000297415.1,Methylacidiphilum fumariolicum SolV,M. fumariolicum,Verrucomicrobial MOB,,109,,Second verrucomicrobial representative,
+GCA_000091165.1,Candidatus Methylomirabilis oxyfera,Ca. M. oxyfera,n-DAMO bacterium (NC10),,1,,Nitrite-dependent methane oxidation; intra-aerobic pathway,MAG - record completeness
+GCF_000685155.1,Candidatus Methanoperedens nitroreducens,Ca. M. nitroreducens,ANME-2d archaeon,,10,,KEY COMPARATOR - nitrate-dependent AOM with documented EET machinery,MAG - several available; pick the most complete
+GCF_011066545.1,Candidatus Kuenenia stuttgartiensis,Ca. K. stuttgartiensis,Anammox,,1,,Cytochrome-c-rich anammox reference genome,MANY assemblies of very different quality - pick the least fragmented
+GCA_030583625.1,Candidatus Jettenia caeni,Ca. J. caeni,Anammox,,1,,Genus-level breadth within Brocadiaceae,one of the better anammox assemblies
+GCF_000949635.1,Candidatus Brocadia sinica,Ca. B. sinica,Anammox,,3,,Common in engineered anammox reactors,
+GCF_001753675.2,Candidatus Brocadia sapporoensis,Ca. B. sapporoensis,Anammox,,123,,Second Brocadia for within-genus variation,
+GCA_000786775.1,Candidatus Scalindua brodae,Ca. S. brodae,Anammox,,282,,Marine anammox; deepest-branching genus,USE brodae NOT profunda - profunda assembly is far more fragmented
+"GCA_020724075.1	",Candidatus Anammoxoglobus sp.,Ca. A. propionicus,Anammox,,1186,,Organotrophic anammox; metabolic contrast,HIGH RISK - NCBI spells it Anammoxiglobus (corrig.); may have no annotated genome. Substitute Ca. Brocadia fulgida if unavailable
