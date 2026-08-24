@@ -1,0 +1,9 @@
+locus_tag,gold_standard_surface,heme_motifs,motif_pass,signalp,signalp_pass,psortb,surface_pass,failure_stage
+MCA0421,yes,9,yes,SP,yes,Periplasmic,no,PSORTb
+MCA0423,yes,8,yes,SP,yes,Unknown,no,PSORTb
+MCA0424,yes,7,yes,SP,yes,Cytoplasmic,no,PSORTb
+MCA0426,yes,7,yes,SP,yes,Unknown,no,PSORTb
+MCA0444,yes,,no,NA,NA,NA,no,Motif
+MCA1906,yes,,no,NA,NA,NA,no,Motif
+MCA2259,yes,9,yes,SP,yes,Periplasmic,no,PSORTb
+MCA2590,yes,,no,NA,NA,NA,no,Motif
