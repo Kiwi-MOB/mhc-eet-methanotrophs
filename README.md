@@ -100,7 +100,34 @@ Requires Python 3.8+. No external packages.
 
 ## 5. Findings so far
 
-*(to be written — one short paragraph per figure, updated as results come in)*
+### Localisation filtering (SignalP 6.0 → PSORTb 3.0)
+
+Of 374 multiheme candidates, 239 carried a predicted signal peptide, and 
+PSORTb assigned 15 to an extracellular localisation. No candidate in the 
+entire dataset was assigned to the outer membrane.
+
+**Positive control behaviour was asymmetric, and this constrains 
+interpretation.** PSORTb correctly recovered OmcS, an experimentally 
+confirmed extracellular cytochrome of G. sulfurreducens. However, it 
+assigned all S. oneidensis candidates to the periplasm or to Unknown, 
+including the MtrC/OmcA system — outer-membrane lipoproteins that are 
+experimentally confirmed to be surface-exposed. These are neither freely 
+secreted nor beta-barrel proteins, and fall outside the structural classes 
+PSORTb resolves.
+
+Consequently, in this dataset a PSORTb "Extracellular" call carries 
+information, but a "Periplasmic" or "Unknown" call does NOT exclude surface 
+exposure. M. capsulatus Bath returned no surface-exposed candidates, but its 
+profile is indistinguishable from that of S. oneidensis, where the same 
+result is a known false negative. Bath's surface localisation therefore 
+remains undetermined rather than negative, and is being addressed through 
+gene-neighbourhood analysis and lipoprotein sorting rules.
+
+All 15 extracellular calls were driven by the ECSVM module, with independent 
+BLAST support in only one case. Multiheme cytochromes have atypical amino 
+acid composition (high Cys and His), which a composition-based classifier may 
+respond to for reasons unrelated to localisation. These 15 calls should be 
+treated as one line of evidence, not fifteen.
 
 ## 6. Known limitations
 
