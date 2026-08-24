@@ -1,4 +1,4 @@
-stage,criterion,gold_standard_total,recalled,recall
-1,MHC motif count >= 3,8,5,0.625
-2,SignalP secretion signal among original gold standard,8,5,0.625
-3,PSORTb surface-localisation criterion among original gold standard,8,0,0.000
+stage,criterion,input_from_previous_stage,passed_stage,cumulative_recalled,gold_standard_total,cumulative_recall
+1,MHC motif count >= 3,8,5,5,8,0.625
+2,SignalP secretion signal,5,5,5,8,0.625
+3,PSORTb surface-localisation criterion,5,0,0,8,0.000
