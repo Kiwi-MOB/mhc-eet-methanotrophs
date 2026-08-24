@@ -21,11 +21,11 @@ GCF_000021745.1,Methylocella silvestris BL2,M. silvestris,Type II MOB (Alphaprot
 GCF_000427445.1,Methylocapsa acidiphila B2,M. acidiphila,Type II MOB (Alphaproteobacteria),,2,,Acidophilic Type II representative,
 GCF_000019665.1,Methylacidiphilum infernorum V4,M. infernorum,Verrucomicrobial MOB,,1,,Deep phylogenetic outgroup among aerobic MOB,
 GCF_000297415.1,Methylacidiphilum fumariolicum SolV,M. fumariolicum,Verrucomicrobial MOB,,109,,Second verrucomicrobial representative,
-GCA_000091165.1,Candidatus Methylomirabilis oxyfera,Ca. M. oxyfera,n-DAMO bacterium (NC10),,1,,Nitrite-dependent methane oxidation; intra-aerobic pathway,MAG - record completeness
+GCF_000091165.1,Candidatus Methylomirabilis oxyfera,Ca. M. oxyfera,n-DAMO bacterium (NC10),,1,,Nitrite-dependent methane oxidation; intra-aerobic pathway,MAG - record completeness
 GCF_000685155.1,Candidatus Methanoperedens nitroreducens,Ca. M. nitroreducens,ANME-2d archaeon,,10,,KEY COMPARATOR - nitrate-dependent AOM with documented EET machinery,MAG - several available; pick the most complete
 GCF_011066545.1,Candidatus Kuenenia stuttgartiensis,Ca. K. stuttgartiensis,Anammox,,1,,Cytochrome-c-rich anammox reference genome,MANY assemblies of very different quality - pick the least fragmented
 GCA_030583625.1,Candidatus Jettenia caeni,Ca. J. caeni,Anammox,,1,,Genus-level breadth within Brocadiaceae,one of the better anammox assemblies
 GCF_000949635.1,Candidatus Brocadia sinica,Ca. B. sinica,Anammox,,3,,Common in engineered anammox reactors,
 GCF_001753675.2,Candidatus Brocadia sapporoensis,Ca. B. sapporoensis,Anammox,,123,,Second Brocadia for within-genus variation,
-GCA_000786775.1,Candidatus Scalindua brodae,Ca. S. brodae,Anammox,,282,,Marine anammox; deepest-branching genus,USE brodae NOT profunda - profunda assembly is far more fragmented
-,Candidatus Anammoxoglobus sp.,Ca. A. propionicus,Anammox,,1186,,Organotrophic anammox; metabolic contrast,HIGH RISK - NCBI spells it Anammoxiglobus (corrig.); may have no annotated genome. Substitute Ca. Brocadia fulgida if unavailable
+GCF_000786775.1,Candidatus Scalindua brodae,Ca. S. brodae,Anammox,,282,,Marine anammox; deepest-branching genus,USE brodae NOT profunda - profunda assembly is far more fragmented
+"GCA_020724075.1	",Candidatus Anammoxoglobus sp.,Ca. A. propionicus,Anammox,,1186,,Organotrophic anammox; metabolic contrast,HIGH RISK - NCBI spells it Anammoxiglobus (corrig.); may have no annotated genome. Substitute Ca. Brocadia fulgida if unavailable
