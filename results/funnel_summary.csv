@@ -1,0 +1,29 @@
+genome_id,short_name,group,n_candidates,n_signalp_positive,n_high_confidence
+GCF_000007985.2,G. sulfurreducens,Positive control (EET),71,58,53
+GCF_000949635.1,Ca. B. sinica,Anammox,41,25,16
+GCF_000685155.1,Ca. M. nitroreducens,ANME-2d archaeon,38,24,20
+GCA_030583625.1,Ca. J. caeni,Anammox,34,20,15
+GCF_000146165.2,S. oneidensis,Positive control (EET),23,20,20
+GCF_011066545.1,Ca. K. stuttgartiensis,Anammox,26,19,12
+GCF_000008325.1,M. capsulatus,Type I MOB (Gammaproteobacteria),16,15,12
+GCF_000786775.1,Ca. S. brodae,Anammox,25,9,5
+GCF_001753675.2,Ca. B. sapporoensis,Anammox,22,9,8
+GCF_000968535.2,Mt. alcaliphilum,Type I MOB (Gammaproteobacteria),6,4,2
+GCF_027571405.1,M. parvus,Type II MOB (Alphaproteobacteria),5,3,3
+GCF_000214275.2,M. album,Type I MOB (Gammaproteobacteria),5,3,2
+GCF_000496735.2,M. morosus,Type I MOB (Gammaproteobacteria),4,3,2
+GCF_054182965.1,N. europaea,Methodological control,4,3,3
+GCF_000006765.1,P. aeruginosa,Negative control,5,3,2
+GCF_000019665.1,M. infernorum,Verrucomicrobial MOB,3,2,1
+GCF_000091165.1,Ca. M. oxyfera,n-DAMO bacterium (NC10),9,2,2
+GCF_000297415.1,M. fumariolicum,Verrucomicrobial MOB,3,2,2
+GCF_000372865.1,M. fibrata,Type I MOB (Gammaproteobacteria),5,2,2
+GCF_001273775.1,N. moscoviensis,Ecological control,8,2,2
+GCF_949769195.1,M. szegediense,Type I MOB (Gammaproteobacteria),3,2,2
+GCF_000005845.2,E. coli,Negative control,7,2,2
+GCF_000021745.1,M. silvestris,Type II MOB (Alphaproteobacteria),2,2,2
+GCF_000214665.1,M. methanica,Type I MOB (Gammaproteobacteria),2,1,1
+GCF_000178815.2,M. trichosporium,Type II MOB (Alphaproteobacteria),1,1,1
+GCF_000427445.1,M. acidiphila,Type II MOB (Alphaproteobacteria),1,1,1
+GCF_000785705.2,M. denitrificans,Type I MOB (Gammaproteobacteria),2,1,1
+GCF_000190755.2,M. tundripaludum,Type I MOB (Gammaproteobacteria),3,1,0
